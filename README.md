@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-##I'm Grace!
-##I'm currently working building macro-evolutionary models :) 
+## I'm Grace!
+## I'm currently working building macro-evolutionary models :) 
 
 <!--
 **GraceRidder/GraceRidder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
